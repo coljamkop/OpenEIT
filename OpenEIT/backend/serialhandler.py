@@ -18,8 +18,7 @@ import os
 
 if platform == "linux" or platform == "linux2":
     # linux
-    import objc
-    from PyObjCTools import AppHelper
+    print("I'm trying to work with linux")
 elif platform == "darwin":
     # OS X
     import objc

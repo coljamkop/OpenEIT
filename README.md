@@ -10,6 +10,7 @@ Python 3.6.1+
 ```
 
 ## Install
+For Linux: If you are trying to install for linux, you may have issues with the Adafruit BluetoothLE library relying on Objective C libraries that aren't readily available on Linux. Manually installing the library using the instructions here is necessary: https://github.com/adafruit/Adafruit_Python_BluefruitLE#linux--raspberry-pi-requirements
 ```
 pip install -r requirements.txt
 

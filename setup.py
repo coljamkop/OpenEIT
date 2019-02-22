@@ -30,8 +30,7 @@ INSTALL_REQUIRES = [
     'Adafruit-BluefruitLE==0.9.10',
     'dash==0.28.2',
     'dash-html-components==0.13.2',
-    'dash_core_components==0.33.0',
-    'PyObjC==5.0'
+    'dash_core_components==0.33.0'
 ]
 
 
